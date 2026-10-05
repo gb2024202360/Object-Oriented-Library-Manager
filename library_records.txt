@@ -1,0 +1,11 @@
+[BOOKS]
+101|The Alchemist|Paulo Coelho|1
+102|Wings of Fire|A.P.J. Abdul Kalam|1
+103|Harry Potter|J.K. Rowling|1
+
+[MEMBERS]
+1|Rahul
+2|Priya
+3|Arun
+
+[LOANS]
